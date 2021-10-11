@@ -32,5 +32,18 @@ For this project I analyzed ride-share data from 2019 in 120 cities. These citie
 
 7. A chart of the time course for the first quarter of 2019 demonstrates that the differences in total fare between city types is consistent across time. 
 
-![line chart](analysis/Fig6.png)
+![line chart](analysis/PyBer_fare_summary.png)
 
+## Summary
+
+The most striking part of the analysis is that the Average Fare per Driver in Urban cities was $0.67. Considering also that the number of drivers in Urban cities is increased out of proportion to the increased number of rides in Urban cities, there are more drivers than are needed in Urban areas. 
+
+- Recommendation 1. Reduce the number of drivers in Urban cities.
+
+In contrast, in the rural cities, more available drivers might lead to an increase in demand for rides. 
+
+- Recommendation 2. Focus on recruiting drivers in rural cities
+
+The fares in rural cities are highest on average, possibly because rides need to cover longer distances, taking more time. However, they make up a very small proportion of the total number of rides. Increasing the number of rides in these areas will provide a better balance across markets, while also adding more of these attractive high fare rides.
+
+- Recommandation 3. Add marketing to increase service utilization in rural cities
